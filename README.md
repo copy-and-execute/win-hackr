@@ -1,5 +1,4 @@
 # win-hackr
-# windows-manager
 a bash script to "crack" passwords easier.
 
 this will:
